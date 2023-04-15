@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Weather App
 
 To run locally install node modules:
 ### `npm install`
